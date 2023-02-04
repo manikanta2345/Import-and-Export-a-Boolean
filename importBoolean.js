@@ -1,2 +1,2 @@
-import booleanValue from "./exportBoolean.js";
+const canDance = require("./exportBoolean.js");
 console.log(booleanValue);
